@@ -5,7 +5,7 @@ Bienvenido a este repositorio donde encontrarás una serie de **ejercicios prác
 ## 📌 Tecnologías y Herramientas
 
 - 🖥️ **Lenguaje**: Java
-- 🧰 **IDE**: IntelliJ IDEA, Eclipse
+- 🧰 **IDE**: IntelliJ IDEA
 
 ## 📖 Contenido del Repositorio
 
